@@ -1,8 +1,5 @@
 # C Programming
-
-## Team Management Program
-
-This project build in C programming langauge using File Handling, Structure which allows us to combine data of different types together.
+Team Management Program This project build in C programming langauge using File Handling, Structure which allows us to combine data of different types together.
 
 ## How to Run in desktop?
 
