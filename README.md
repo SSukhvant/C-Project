@@ -7,4 +7,5 @@ Team Management Program
 
 ## How program output look like?
 
+![alt text](https://github.com/SSukhvant/C-Project/blob/master/Screenshot.png)
 
